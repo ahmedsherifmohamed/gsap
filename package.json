@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/ahmedsherifmohamed/gsap",
+  "homepage": "https://ahmedsherifmohamed.github.io/gsap/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
